@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lilwal Computer School</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="courses.html">Courses</a></li>
+                <li><a href="faculty.html">Faculty</a></li>
+                <li><a href="admission.html">Admission</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section>
+        <h1>Welcome to Lilwal Computer School</h1>
+        <p>Providing quality computer education since 2005</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2023 Lilwal Computer School. All rights reserved.</p>
+    </footer>
+</body>
+</html>
